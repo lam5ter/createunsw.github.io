@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: CREATE UNSW
+email: create@createunsw.com.au
+description: "CreateUNSW runs and provides workshops for beginners on electronics, programming, soldering, prototyping and 3D modelling. Weekly sales of electronic components on-campus, including Kits. Hackerspaces and makerspaces. Quadcopters. Funding and support for student projects."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+paginate: 5
+permalink: /:categories/:title/
+api_key: OTJiYWVhMmUtZTA3YS00N2Q4LWI4NmEtMTQ3MTkxMWViNDkwNjM2MjM0MzkzODUxMDk4OTQy
+
+future: true
+gems: [jekyll-paginate, kramdown, jekyll-seo-tag, jekyll-sitemap]
+# Build settings
+markdown: kramdown
+
+collections:
+  products:
+    output: true
+    permalink: /store/:title/

@@ -1,0 +1,21 @@
+
+<div class="panel panel-default" style="width:370px;">
+  <div class="panel-heading">
+    <h4 class="panel-title"><a href="{{ site.baseurl }}{{ product.url }}">{{ product.name }}</a></h4>
+  </div>
+  <div class="panel-body product-subpod">
+    <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
+    <p>{{ product.category }}</p>
+  </div>
+  <div class="panel-footer">
+    <button class="snipcart-add-item"
+      data-item-name="{{ product.name }}"
+      data-item-id="{{ product.sku }}"
+      data-item-image="{{ product.image }}"
+      data-item-url="{{ site.baseurl }}"
+      data-item-price="{{ product.price }}">
+      Buy it for ${{ product.price }}
+    </button>
+    <a style="float:right" href="{{ site.baseurl }}{{ product.url }}" alt="{{ product.name }}">Item Details</a>
+  </div>
+</div>
