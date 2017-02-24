@@ -25,4 +25,40 @@ type: section
 
 <div class="wrapper">
 
+
+<ul class="post-list">
+
+	{% assign cats =  site.media | map: 'categories' | join: ','  | split: ',' | uniq %}
+    {% for cat in cats %}
+	    <div class="postBody">
+			<div class="manual-post">
+				<div class="manual manual-title" id="{{ cat }}">
+			 		<strong>{{ cat }}</strong>
+				</div>
+			</div><br>
+			{% assign posts = site.media | sort:"title" %}
+
+	    	<div class="product-pod">
+		    {% for post in posts%}
+		    	{% if post.categories contains cat %}
+				<div class="card" style="width: 225px; height: auto;">
+				  <img class="card-img-top" src="{{ post.image }}" alt="{{ post.title }}">
+				  <div class="card-block" style="padding: 10px;">
+				    <b class="card-title">{{ post.title }}</b>
+				    <p class="card-text">{{ post.content | strip_html | truncatewords:20}}</p>
+				    <a style="float:right" href="{{ site.baseurl }}{{ post.url }}" class="btn btn-secondary">Read More</a>
+				  </div>
+				</div>
+	    		{% endif %}
+   			 {% endfor %}
+			</div>
+		</div>
+	{% endfor %}
+</ul>
+
+
+
+
+
+
 </div>

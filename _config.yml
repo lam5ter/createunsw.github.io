@@ -24,3 +24,6 @@ collections:
   products:
     output: true
     permalink: /store/:title/
+  media:
+    output: true
+    permalink: /:categories/:title/

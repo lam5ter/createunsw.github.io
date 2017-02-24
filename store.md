@@ -83,4 +83,5 @@ type: section
 		</div>
 	{% endfor %}
 </ul>
+
 </div>
