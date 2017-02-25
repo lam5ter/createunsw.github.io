@@ -2,7 +2,7 @@
 categories: create-starters
 title:  STAR WARS - BCRE8
 slug: starters-bcre8
-image: http://www.createunsw.com.au/destroy/uploads/Projects/bcre8.jpeg
+image: /images/Projects/bcre8.jpeg
 layout: post
 author: William Hales
 date: 2016-02-12 19:45:31 +1000

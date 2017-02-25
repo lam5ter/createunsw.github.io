@@ -8,7 +8,7 @@ type: section
 
 <style type="text/css">
 .team-cover {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.0-9/14568197_657783307730461_165885174753342049_n.jpg?oh=2883a74caaea7d244e993f4e02abea9f&oe=593C5AB3);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(/images/Cover/team.jpg);
   background-attachment: fixed;
 }
   background-attachment: fixed;
@@ -31,7 +31,7 @@ type: section
       <strong>Current Executive Team</strong>
     </div><br>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_anthony_fezi-sobbi.jpeg" alt="Avatar">
+      <img src="/images/Main/exec_anthony_fezi-sobbi.jpeg" alt="Avatar">
       <div class="profile-container">
         <b>Anthony Fezi-Sobbi</b>
         <p>President</p>
@@ -39,7 +39,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_patrick_huang.jpg" alt="Avatar">
+      <img src="/images/Main/exec_patrick_huang.jpg" alt="Avatar">
       <div class="profile-container">
         <b>Patrick Huang</b>
         <p>Vice President of Events</p>
@@ -47,7 +47,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_chris_ho.jpg" alt="Avatar">
+      <img src="/images/Main/exec_chris_ho.jpg" alt="Avatar">
       <div class="profile-container">
         <b>Christopher Ho</b>
         <p>Vice President of Sponsorship</p>
@@ -55,7 +55,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_simon_taylor.jpg" alt="Avatar">
+      <img src="/images/Main/exec_simon_taylor.jpg" alt="Avatar">
       <div class="profile-container">
         <b>Simon Taylor</b>
         <p>Treasurer</p>
@@ -63,7 +63,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_daniel_li_2.jpg" alt="Avatar">
+      <img src="/images/Main/exec_daniel_li_2.jpg" alt="Avatar">
       <div class="profile-container">
         <b>Daniel Li</b>
         <p>Secretary</p>
@@ -71,7 +71,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_alexander_lam.jpg" alt="Avatar">
+      <img src="/images/Main/exec_alexander_lam.jpg" alt="Avatar">
       <div class="profile-container">
         <b>Alexander Lam</b>
         <p>Arc Delegate</p>
@@ -79,7 +79,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_Jason_phu.jpeg" alt="Avatar">
+      <img src="/images/Main/exec_Jason_phu.jpeg" alt="Avatar">
       <div class="profile-container">
         <b>Jason Phu</b>
         <p>Co-Director of Sales</p>
@@ -87,7 +87,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_nathan_lam.jpg" alt="Avatar">
+      <img src="/images/Main/exec_nathan_lam.jpg" alt="Avatar">
       <div class="profile-container">
         <b>Nathan Lam</b>
         <p>Co-Director of Sales</p>
@@ -95,7 +95,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_karen_zhong.jpg" alt="Avatar">
+      <img src="/images/Main/exec_karen_zhong.jpg" alt="Avatar">
       <div class="profile-container">
         <b>Karen Zhong</b>
         <p>Head of Media and Marketing</p>
@@ -103,7 +103,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_daniel_castillo.jpeg" alt="Avatar">
+      <img src="/images/Main/exec_daniel_castillo.jpeg" alt="Avatar">
       <div class="profile-container">
         <b>Daniel Castillo</b>
         <p>Chief Technical Officer</p>
@@ -111,7 +111,7 @@ type: section
       </div>
     </div>
     <div class="card">
-      <img src="http://www.createunsw.com.au/destroy/uploads/Main/exec_abhishek_sharan.jpg" alt="Avatar">
+      <img src="/images/Main/exec_abhishek_sharan.jpg" alt="Avatar">
       <div class="profile-container">
         <b>Abhishek Sharan</b>
         <p>UAS Team Leader</p>

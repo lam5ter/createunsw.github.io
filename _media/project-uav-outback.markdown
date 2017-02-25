@@ -2,7 +2,7 @@
 categories: projects
 title: UAV Outback Challenge
 slug: UAV-Outback-Challenge
-image: http://www.createunsw.com.au/destroy/uploads/Projects/uav1.jpeg
+image: /images/Projects/uav1.jpeg
 layout: post
 author: William Hales
 date: 2016-06-16 19:45:31 +1000
@@ -14,4 +14,4 @@ The UAV Challenge has been held in Queensland since 2007, and is an open interna
 
 CREATE plans to use its considerable experience with UAV development as well as the resources that have been made available through partnerships across the university to enter a competitive team in the 2016 competition. The complexity and demanding nature of the challenge will be rewarding for all participants involved, as well as provide the opportunity for research and academic involvement in the cutting-edge developments that are required to complete the challenge.
 
-![](http://www.createunsw.com.au/destroy/uploads/Projects/uav_logo1.png)
+![](/images/Projects/uav_logo1.png)

@@ -2,7 +2,7 @@
 categories: create-starters
 title: Start3D - 3D Printer
 slug: start3d
-image: http://www.createunsw.com.au/destroy/uploads/Projects/start3d1.jpeg
+image: /images/Projects/start3d1.jpeg
 layout: post
 author: William Hales
 date: 2016-06-16 19:45:31 +1000

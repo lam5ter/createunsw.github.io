@@ -2,7 +2,7 @@
 categories: projects
 title: Vivid Sydney 2016 - Mondrian Cube
 slug: mondrian-cube
-image: http://www.createunsw.com.au/destroy/uploads/Projects/mondrian1.jpeg
+image: /images/Projects/mondrian1.jpeg
 layout: post
 author: William Hales
 date: 2016-06-16 19:45:31 +1000

@@ -8,7 +8,7 @@ type: section
 
 <style type="text/css">
 .store-cover {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.0-9/13124451_582084161967043_2445159486797259678_n.jpg?oh=71315416e45f76921c6cdb378c4c5a78&oe=593EC25C);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(/images/Cover/store.jpg);
 	background-attachment: fixed;
 }
 </style>

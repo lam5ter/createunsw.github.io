@@ -2,7 +2,7 @@
 categories: projects
 title: Pedal Power Generator
 slug: pedal-power-generator
-image: http://www.createunsw.com.au/destroy/uploads/Projects/bikeology2.jpeg
+image: /images/Projects/bikeology2.jpeg
 layout: post
 author: William Hales
 date: 2016-06-16 19:45:31 +1000
@@ -14,7 +14,7 @@ The pedal power generator features an old motor from an electric scooter attache
 
 When pedalling, the magnets inside the motor will spin and low voltage AC (alternating current) electricity is produced at the output. This AC electricity is fed through a full bridge rectifier, which is an electrical circuit that converts AC to DC (direct current) electricity.
 
-![](http://www.createunsw.com.au/destroy/uploads/Projects/bikeology1.jpeg)
+![](/images/Projects/bikeology1.jpeg)
 
 Experiment has shown the motor-turned-generator can produce maximum 50V DC when pedalled at Tour de France cyclist style!
 
@@ -29,4 +29,4 @@ The power output of the pedal power generator is estimated to be around 100W.
 Currently the bike is able to charge phones, power the aforementioned LED lights, and run a small drinks cooler. It has been featured in several internal UNSW events such as Stress Less Week, and First Friday: Bespoke City at UNSW Art & Design.
 
 <a href="https://www.facebook.com/CreateUnsw/videos/483971138445013/?permPage=1">You can view the progress video here.</a>
-![](http://www.createunsw.com.au/destroy/uploads/Projects/bikeology3.jpeg)
+![](/images/Projects/bikeology3.jpeg)
