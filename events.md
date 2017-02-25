@@ -16,6 +16,15 @@ type: section
 }
 </style>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div class="jumbotron general-cover events-cover" >
   <div class="wrapper">
     <center>
@@ -27,17 +36,13 @@ type: section
 
 
 <div class="wrapper">
-  <div class="manual-post">
-    <div class="manual manual-title">
-      <i class="fa fa-calendar fa-lg" aria-hidden="true"></i>
-      <strong>Upcoming CREATE Workshops & Events</strong>
-    </div>
-    <div class="portfolio-content">
-       <div class="responsive-iframe-container big-container">
-        <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5cruiam6s11tare6s88dcnes60%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=Australia%2FSydney" style="border-width:0" width="700" height="400" frameborder="0" scrolling="no"></iframe>
-      </div>
-    </div>
+
+  <div class="manual manual-title" >
+    <i class="fa fa-calendar fa-lg" aria-hidden="true"></i>
+    <strong>Upcoming CREATE Workshops & Events</strong>
+    <br><br>
   </div>
+  <div class="fb-page" data-href="https://www.facebook.com/createUNSW" data-tabs="events" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/createUNSW" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/createUNSW">CREATE UNSW</a></blockquote></div>
 
   <div class="manual-post">
     <div class="manual manual-title">

@@ -89,11 +89,11 @@ ul.topnav li {float: right;}
 
 /* Style the links inside the list items */
 ul.topnav li a {
-    font-family: "Allerta Stencil";
-    display: inline-block;
-    text-align: center;
-    text-decoration: none;
-    transition: 0.3s;
+  font-family: "Allerta Stencil";
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  transition: 0.3s;
 }
 
 
@@ -103,7 +103,7 @@ ul.topnav li.icon {display: none; margin-right:10px}
 @media screen and (max-width:680px) {
   ul.topnav li:not(:first-child) {display: none;}
   ul.topnav li.icon {
-        font-size: 20px;
+    font-size: 20px;
     float: right;
     display: inline-block;
   }
@@ -952,7 +952,7 @@ pre {
 
 .general-cover {
   margin-top: -60px;
-  height: 85vh;
+  height: 80vh;
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -1038,7 +1038,7 @@ pre {
 
 .google-maps {
     position: relative;
-    padding-bottom: 75%; // This is the aspect ratio
+    padding-bottom: 55%;
     height: 0;
     overflow: hidden;
 }
