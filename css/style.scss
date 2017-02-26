@@ -101,12 +101,24 @@ ul.topnav li a {
 ul.topnav li.icon {display: none; margin-right:10px}
 /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
 @media screen and (max-width:740px) {
-  ul.topnav li:not(:first-child) {display: none;}
-  ul.topnav li.icon {
-    font-size: 20px;
-    float: right;
-    display: inline-block;
-  }
+	ul.topnav li:not(:first-child) {display: none;}
+	ul.topnav li.icon {
+		font-size: 15px;
+		float: right;
+		display: inline-block;
+	}
+	.site-title-banner {
+		font-size: 10px;
+		font-weight: 500;
+		font-family: "Allerta Stencil";
+	}
+.site-navigation {
+  color: #aaa;
+  text-transform: uppercase;
+  font-size: 10px;
+  padding-top: 0em;
+}
+
 }
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
@@ -950,6 +962,7 @@ pre {
 
 
 
+
 .general-cover {
   margin-top: -60px;
   height: 80vh;
@@ -982,6 +995,31 @@ pre {
 }
 
 
+@media screen and (max-width:740px) {
+	.general-cover {
+		margin-top: -60px;
+		height: 50vh;
+		background-repeat: no-repeat;
+		background-size: cover;
+		color: white;
+	}
+	.general-cover img {
+		margin-top: -70px;
+	}
+	.general-cover span{
+		font-size: 0.6em;
+		background: red;
+		margin: 0.2em;
+		padding:0.5em;
+		box-shadow: 4px 4px 2px black;
+		display: inline-block;
+	}
+	.general-cover center {
+	  margin-top: 10vh;
+	  padding: 10px;
+	}
+
+}
 
 
 
