@@ -12,4 +12,4 @@ We are building 1 METER CUBED 3D printer. The printer will feature a huge build 
 
 We are currently in the process of establishing team roles and structure. We meet every Monday evening at the MCIC.
 
-If you are interested in joining the team, head over to <a href="/#starters">CREATE Starters</a to sign up.
+If you are interested in joining the team, head over to <a href="/#starters">CREATE Starters</a> to sign up.

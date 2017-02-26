@@ -4,11 +4,9 @@ title: Light Bridge
 slug: light-bridge
 image: /images/Projects/lightbridge1.jpeg
 layout: post
-author: William Hales
+author: Scarlett Steven
 date: 2016-06-16 19:45:31 +1000
 ---
-Scarlett Steven submitted the following project to CREATE Starters:
-
 The Randwick Council Outdoor Sculpture Walk is a night­time light installation exhibition that third year Sculpture students are putting on in conjunction with Randwick Council. The exhibition has a huge environmental focus, as it coincides with the Randwick Eco­Living Fair on September 13th. I am on the management team of this exhibition, and my specific role is environmental officer. It is my role to ensure that all proposals meet the environmental requirements put to us by their local arborist. The exhibition will run over four nights, and will be attended by the mayor.
 
 Light Bridge is artwork I am creating for the exhibition. It will consist of a series of 6-12 pairs of infrared sensor activated lights, that will be installed on a bridge in the Randwick Community Centre wetland. As a person moves over the bridge, each light will go on while they are directly in front of it, and then off as they move on to the next one. It will essentially map a person as they move over the bridge. Bridges are spaces of inbetween-ness, when one is neither at the start nor the beginning. My work attempts to create a space from this non-space and make this period of liminality a focus.
