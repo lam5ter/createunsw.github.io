@@ -128,10 +128,6 @@ type: section
     </div>
   </div>
 
-
-
-
-
   <br>
 
   <div class="manual-post" id="past_exec">
