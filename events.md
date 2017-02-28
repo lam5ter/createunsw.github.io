@@ -11,9 +11,6 @@ type: section
   background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(/images/Cover/events.jpg);
   background-attachment: fixed;
 }
-.events-cover h1 b{
-  font-size: 0.7em;
-}
 </style>
 
 <div id="fb-root"></div>

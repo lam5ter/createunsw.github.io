@@ -25,7 +25,7 @@ type: section
 <div class="jumbotron general-cover about-cover" >
   <div class="wrapper">
     <center>
-      <h1><b>ABOUT US</b></h1>
+      <h1><b>ABOUT</b></h1>
       <span>BUILT - <b>LEARN</b> - INSPIRE</span>
     </center>
   </div>
