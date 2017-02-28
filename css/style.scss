@@ -961,7 +961,7 @@ pre {
 .general-cover h1 b{
   z-index: 1;
   margin-botton:-14px;
-  font-size: 1em;
+  font-size: 1.3em;
   font-family: "Allerta Stencil";
   text-shadow: 4px 4px black;
 }
@@ -1005,7 +1005,12 @@ pre {
 
 }
 
-
+// footer: maintainers list
+@media screen and (max-width:740px) {
+	.maintainers-list {
+		display: none;
+	}
+}
 
 .typewriter h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */

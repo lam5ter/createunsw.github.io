@@ -11,9 +11,6 @@ type: section
   background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(/images/Cover/about.jpg);
   background-attachment: fixed;
 }
-.about-cover h1 b{
-  font-size: 0.5em;
-}
 </style>
 
 <div id="fb-root"></div>
