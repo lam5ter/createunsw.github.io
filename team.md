@@ -137,38 +137,41 @@ type: section
     </div>
 
     <div class="portfolio-content">
-  <table ><tr ><th  align='left'>Name</th><th  align='left'>Work</th></tr>
+  <table ><tr ><th  align='left'>Name</th><th  align='left'>Role</th></tr>
   <tr ><td  align='left'>Sophia Luu</td><td >2015 Head of Media and Marketing</td></tr>
   <tr ><td >&nbsp;</td><td >2016 Head of Media and Marketing</td></tr>
   <tr ><td  align='left'>Sarah Nguyen</td><td >2016 Digital Artist</td></tr>
   <tr ><td  align='left'>Alexander Yellachich</td><td >2015 Vice President of Sponsorship</td></tr>
   <tr ><td >&nbsp;</td><td >2016 President</td></tr>
-  <tr ><td  align='left'>Kate Apel</td><td >2016 Vice President of Events</td></tr>
   <tr ><td  align='left'>Evan Lister</td><td >2016 Vice President of Sponsorship</td></tr>
-  <tr ><td  align='left'>Yunzhen Zhang</td><td >2014 Arc Delegate</td></tr>
-  <tr ><td >&nbsp;</td><td >2015 Secretary/Treasurer</td></tr>
-  <tr ><td >&nbsp;</td><td >2016 Treasurer</td></tr>
   <tr ><td  align='left'>Lachlan Boyle</td><td >2016 Co-Director of Sales</td></tr>
-  <tr ><td  align='left'>Nathan Adler</td><td >2013 Project Administration</td></tr>
-  <tr ><td >&nbsp;</td><td >2014 President</td></tr>
-  <tr ><td >&nbsp;</td><td >2015 President</td></tr>
-  <tr ><td  align='left'>Sam Cassisi</td><td >2013 President</td></tr>
-  <tr ><td  align='left'>Rory San Miguel</td><td >2015 Vice President of Sponsorship</td></tr>
-  <tr ><td  align='left'>Roshen Mathews</td><td >2015 Vice President of Events</td></tr>
-  <tr ><td  align='left'>William Luo</td><td >2014 Head of Media and Marketing</td></tr>
-  <tr ><td  align='left'>William Archinal</td><td >2014 Secretary/Treasurer</td></tr>
-  <tr ><td  align='left'>Aidan O’Brien</td><td >2013 Vice President</td></tr>
-  <tr ><td  align='left'>Austin Kong</td><td >2013 Secretary</td></tr>
-  <tr ><td >&nbsp;</td><td >2015 Doer of Things(CTO)</td></tr>
-  <tr ><td  align='left'>Molly Mcmanus</td><td >2013 Treasurer</td></tr>
-  <tr ><td  align='left'>Adam Silk</td><td >2013 Arc Delegate</td></tr>
-  <tr ><td >&nbsp;</td><td >2014 Vice President of Sponsorship</td></tr>
-  <tr ><td >Callum Howard</td><td >2014 Vice President of Events</td></tr>
-  <tr ><td >Pascal Hendricks</td><td >2013 Event's Co-ordinator</td></tr>
-  <tr ><td >Mark Johnson</td><td >2015 Co-Director of Sales</td></tr>
+  <tr ><td  align='left'>Roshen Mathew</td><td >2015 Vice President of Events</td></tr>
   <tr ><td >Nick Tucker</td><td >2015 Co-Director of Sales</td></tr>
   <tr ><td >Emmanuel Fazio</td><td >2015 Co-Director of Sales</td></tr>
   <tr ><td >Raymond Zeng</td><td >2015 Co-Head of Media and Marketing</td></tr>
+  <tr ><td  align='left'>William Archinal</td><td >2014 Secretary/Treasurer</td></tr>
+  <tr ><td  align='left'>Kate Apel</td><td >2014 Co-Head of Sales</td></tr>
+  <tr ><td >&nbsp;</td><td >2016 Vice President of Events</td></tr>
+  <tr ><td >Mark Johnson</td><td >2014 Head of Sales</td></tr>
+  <tr ><td >&nbsp;</td><td >2015 Co-Director of Sales</td></tr>
+  <tr ><td  align='left'>Yunzhen Zhang</td><td >2014 Arc Delegate</td></tr>
+  <tr ><td >&nbsp;</td><td >2015 Secretary/Treasurer</td></tr>
+  <tr ><td >&nbsp;</td><td >2016 Treasurer</td></tr>
+  <tr ><td >Callum Howard</td><td >2014 Vice President of Events</td></tr>
+  <tr ><td  align='left'>William Luo</td><td >2014 Head of Media and Marketing</td></tr>
+  <tr ><td  align='left'>Rory San Miguel</td><td >2013 Chief Technical Officer</td></tr>
+  <tr ><td >&nbsp;</td><td >2015 Vice President of Sponsorship</td></tr>
+  <tr ><td >Pascal Hendricks</td><td >2013 Event's Co-ordinator</td></tr>
+  <tr ><td  align='left'>Austin Kong</td><td >2013 Secretary</td></tr>
+  <tr ><td >&nbsp;</td><td >2015 Doer of Things(CTO)</td></tr>
+  <tr ><td  align='left'>Molly Mcmanus</td><td >2013 Treasurer</td></tr>
+  <tr ><td  align='left'>Aidan O’Brien</td><td >2013 Vice President</td></tr>
+  <tr ><td  align='left'>Adam Silk</td><td >2013 Arc Delegate</td></tr>
+  <tr ><td >&nbsp;</td><td >2014 Vice President of Sponsorship</td></tr>
+  <tr ><td  align='left'>Nathan Adler</td><td >2013 Vice President of Events</td></tr>
+  <tr ><td >&nbsp;</td><td >2014 President</td></tr>
+  <tr ><td >&nbsp;</td><td >2015 President</td></tr>
+  <tr ><td  align='left'>Sam Cassisi</td><td >2013 Founder & President</td></tr>
   </table>
     </div>
   </div>
