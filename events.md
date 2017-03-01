@@ -8,7 +8,7 @@ type: section
 
 <style type="text/css">
 .events-cover {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(/images/Cover/events.jpg);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/14322705_642907155884743_330999372392837936_n.jpg?oh=cca2ef7ff3ed11bb71f2cbdcd72acd17&oe=5929C3DE);
   background-attachment: fixed;
 }
 </style>
