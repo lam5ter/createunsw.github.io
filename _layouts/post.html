@@ -8,11 +8,23 @@ layout: default
   background-attachment: fixed;
   height: 65vh;
 }
+.post-cover span{
+  font-size: 0.6em;
+  background: red;
+  margin: 0.4em;
+  padding:0.7em;
+  box-shadow: 4px 4px 2px black;
+  display: inline-block;
+}
+.post-cover span b{
+  text-shadow: 2px 2px black;
+}
+
 </style>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <div class="jumbotron general-cover post-cover" >
-<div class="wrapper"><button class="btn btn-primary" onclick="location.href='/media/#{{ page.categories }}'"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Media</button></div>
+      <div class="wrapper"><button class="btn btn-primary" onclick="location.href='/media/#{{ page.categories }}'"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Media</button></div>
       <div class="wrapper">
         <br>
         <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
