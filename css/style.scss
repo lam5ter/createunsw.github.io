@@ -1005,11 +1005,14 @@ pre {
 
 }
 
-// footer: maintainers list
+// footer stuff
 @media screen and (max-width:740px) {
 	.maintainers-list {
 		display: none;
 	}
+  .quick-links {
+    display: none;
+  }
 }
 
 .typewriter h1 {

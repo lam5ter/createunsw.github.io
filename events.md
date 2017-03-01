@@ -35,7 +35,7 @@ type: section
 <div class="wrapper">
 
   <div class="manual-post">
-    <div class="manual manual-title">
+    <div class="manual manual-title" id="workshops">
       <i class="fa fa-tree fa-lg" aria-hidden="true"></i>
       <strong>Free Workshops</strong>
     </div>
