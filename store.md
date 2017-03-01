@@ -27,6 +27,7 @@ type: section
 
 <div class="str-sub">
 <br>Orders can be bought and collected from our Globe Lawn stall on <b>Mondays from 12pm to 4pm during semester time only</b>. If a collection is urgently needed, we can pre-arrange a collection time via email at <b>sales@createunsw.com.au</b>.
+<br><br>You can also purchase from the vending machine that's located in MCIC when ever it's open.
 <br><br>Talk to us before purchasing anything through this page. We may not have all items in stock.
 <br><br>Please note: This service is primarily for UNSW students and staff only. Generally speaking, we do not ship orders. If you are outside of UNSW, please email your enquiry to sales@createunsw.com.au.
 </div>
