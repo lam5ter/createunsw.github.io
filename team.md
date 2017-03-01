@@ -150,7 +150,7 @@ type: section
   <tr ><td  align='left'>Nick Tucker</td><td >2015 Co-Director of Sales</td></tr>
   <tr ><td  align='left'>Emmanuel Fazio</td><td >2015 Co-Director of Sales</td></tr>
   <tr ><td  align='left'>Raymond Zeng</td><td >2015 Co-Head of Media and Marketing</td></tr>
-  <tr ><td  align='left'>Michael O'Connor</td><td >2015 Co-Head of Sales, Head of 3D Printing</td></tr>
+  <tr ><td  align='left'>Michael O'Connor</td><td >2014 Co-Head of Sales, Head of 3D Printing</td></tr>
   <tr ><td  align='left'>Evan Lister</td><td >2014 Head of UAV Team</td></tr>
   <tr ><td >&nbsp;</td><td >2016 Vice President of Sponsorship</td></tr>
   <tr ><td  align='left'>Clement Chan</td><td >2014 Socials Co-ordinator</td></tr>
