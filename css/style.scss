@@ -80,11 +80,17 @@ hr {
 }
 
 
+.wrapper ul {
+  list-style-type: circle;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+}
+
 /* Remove margins and padding from the list, and add a black background color */
 ul.topnav {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 /* Float the list items side by side */
@@ -632,8 +638,8 @@ pre {
   width: calc(20% - (#{$spacing-unit} / 2));
 }
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width: calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width: calc(40% - (#{$spacing-unit} / 2));
 }
 @include media-query($on-laptop) {
   .footer-col-1,
@@ -1006,10 +1012,17 @@ pre {
 }
 
 // footer stuff
+.quick-links ul {
+  list-style-type: none;
+}
+.footer-col-wrapper ul {
+  list-style-type: none;
+}
+
 @media screen and (max-width:740px) {
-	.maintainers-list {
-		display: none;
-	}
+  .maintainers-list {
+    display: none;
+  }
   .quick-links {
     display: none;
   }
