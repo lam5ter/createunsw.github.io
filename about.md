@@ -26,7 +26,7 @@ type: section
   <div class="wrapper">
     <center>
       <h1><b>ABOUT</b></h1>
-      <span>STUDENT LED - <b>PROJECT STARTERS</b> - MAKER CLUB</span>
+      <span>STUDENT-LED / <b>PROJECT STARTERS</b> / MAKER CLUB</span>
     </center>
   </div>
 </div>
