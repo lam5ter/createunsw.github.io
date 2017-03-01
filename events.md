@@ -26,7 +26,7 @@ type: section
   <div class="wrapper">
     <center>
       <h1><b>EVENTS</b></h1>
-      <span>FREE BBQs / <b>WORKSHOPS</b> / HACKERSPACE</span>
+      <span>BBQs - <b>WORKSHOPS</b> - SALES</span>
     </center>
   </div>
 </div>
