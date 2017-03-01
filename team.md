@@ -145,10 +145,14 @@ type: section
   <tr ><td >&nbsp;</td><td >2016 President</td></tr>
   <tr ><td  align='left'>Evan Lister</td><td >2016 Vice President of Sponsorship</td></tr>
   <tr ><td  align='left'>Lachlan Boyle</td><td >2016 Co-Director of Sales</td></tr>
-  <tr ><td  align='left'>Roshen Mathew</td><td >2015 Vice President of Events</td></tr>
+  <tr ><td  align='left'>Roshen Mathew</td><td >2014 Co-Head of UGV Team</td></tr>
+  <tr ><td >&nbsp;</td><td >2015 Vice President of Events</td></tr>
+  <tr ><td  align='left'>Kevin Lerdwichagul</td><td >2014 Co-Head of UGV Team</td></tr>
   <tr ><td >Nick Tucker</td><td >2015 Co-Director of Sales</td></tr>
   <tr ><td >Emmanuel Fazio</td><td >2015 Co-Director of Sales</td></tr>
   <tr ><td >Raymond Zeng</td><td >2015 Co-Head of Media and Marketing</td></tr>
+  <tr ><td >Clement Chan</td><td >2014 Socials Co-ordinator</td></tr>
+  <tr ><td >Michael O'Connor</td><td >2015 Co-Head of Sales, Head of 3D Printing</td></tr>
   <tr ><td  align='left'>William Archinal</td><td >2014 Secretary/Treasurer</td></tr>
   <tr ><td  align='left'>Kate Apel</td><td >2014 Co-Head of Sales</td></tr>
   <tr ><td >&nbsp;</td><td >2016 Vice President of Events</td></tr>
