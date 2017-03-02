@@ -17,7 +17,7 @@ type: section
   <div class="wrapper">
     <center>
       <h1><b>STORE</b></h1>
-      <span>TOOLS <b>QUADCOPTERS</b> ELECTRONICS</span>
+      <span>TOOLS / <b>QUADCOPTERS</b> / ELECTRONICS</span>
     </center>
   </div>
 </div>
@@ -66,16 +66,23 @@ type: section
 				    <p>${{ integral }}.{{ fractional }}</p>
 				  </div>
 				  <div class="panel-footer">
-				    <button class="btn btn-secondary snipcart-add-item"
-				      data-item-name="{{ post.title }}"
-				      data-item-id="{{ post.sku }}"
-				      data-item-image="{{ post.image }}"
-				      data-item-url="{{ site.baseurl }}"
-				      data-item-price="{{ post.price }}">
-				      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-				      Purchase
-				    </button>
-				    <a style="float:right" href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">Item Details</a>
+				  	<div style="display: inline">
+						<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'>
+							<input type='hidden' name='add' value='1'>
+							<input type='hidden' name='cmd' value='_cart'>
+							<input type='hidden' name='business' value='sales@createunsw.com.au' />
+							<input type='hidden' name='item_name' value='{{ post.title }}' />
+							<input type='hidden' name='item_number' value='' />
+							<input type='hidden' name='amount' value='{{ post.price }}' />
+							<input type='hidden' name='no_note' value='1' />
+							<input type='hidden' name='currency_code' value='AUD' />
+							<input type='hidden' name='lc' value='AU'><input style="width:40px;" type='number' name='quantity' value='1' min="1">
+							<button class="btn btn-secondary" type='submit' name='submit' alt='Add this item to your paypal cart.' value='Purchase' >
+								<i class="fa fa-shopping-cart" aria-hidden="true"></i>
+							</button>
+						    <a style="float:right" href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">Item Details</a>
+						</form>
+				  	</div>
 				  </div>
 				</div>
 	    		{% endif %}

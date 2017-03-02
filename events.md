@@ -26,7 +26,7 @@ type: section
   <div class="wrapper">
     <center>
       <h1><b>EVENTS</b></h1>
-      <span>BBQs - <b>WORKSHOPS</b> - SALES</span>
+      <span>BBQs / <b>WORKSHOPS</b> / SALES</span>
     </center>
   </div>
 </div>
