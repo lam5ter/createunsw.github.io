@@ -94,7 +94,7 @@ ul.topnav {
 }
 
 /* Float the list items side by side */
-ul.topnav li {float: right;}
+ul.topnav li {float: right; border: 1px;}
 
 /* Style the links inside the list items */
 ul.topnav li a {
@@ -256,7 +256,9 @@ a {
 
     &.page-link{
       &:hover {
+          text-decoration: none;
           color: $text-color;
+          background-color: $grey-color-light;
       }
     }
     &.postLink{
@@ -512,6 +514,8 @@ pre {
   font-family: 'Josefin Sans';
 }
 .exclamationMark {
+  float:left;
+  font-size:15px;
   padding-left: .5em;
   padding-right: .5em;
 }
@@ -615,7 +619,7 @@ pre {
 .footer-col-wrapper {
   font-size: 12px;
   color: $grey-color;
-  margin-left: -$spacing-unit / 1;
+  margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
 .footer-content {
