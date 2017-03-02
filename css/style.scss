@@ -516,8 +516,8 @@ pre {
 .exclamationMark {
   float:left;
   font-size:15px;
-  padding-left: .5em;
-  padding-right: .5em;
+  padding-left: .2em;
+  padding-right: .2em;
 }
 .site-navigation {
   color: #aaa;
@@ -545,6 +545,9 @@ pre {
 }
 .page-link {
   color: rgb(170, 170, 170);
+}
+.page-link-item {
+  font-size: 14px;
 }
 .site-nav {
   .page-link {
