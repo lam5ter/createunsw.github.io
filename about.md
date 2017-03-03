@@ -65,6 +65,9 @@ type: section
         <li><i class="fa fa-envelope" aria-hidden="true"></i> General Enquiries: <a href="mailto:create@createunsw.com.au" target="_top">create@createunsw.com.au</a></li>
         <li><i class="fa fa-envelope" aria-hidden="true"></i> Sales: <a href="mailto:sales@createunsw.com.au" target="_top">sales@createunsw.com.au</a></li>
         <li><i class="fa fa-envelope" aria-hidden="true"></i> Sponsorship: <a href="mailto:sponsorship@createunsw.com.au" target="_top">sponsorship@createunsw.com.au</a></li>
+        <li><i class="fa fa-envelope" aria-hidden="true"></i> Events: <a href="mailto:events@createunsw.com.au" target="_top">events@createunsw.com.au</a></li>
+        <li><i class="fa fa-envelope" aria-hidden="true"></i> Marketing: <a href="mailto:marketing@createunsw.com.au" target="_top">marketing@createunsw.com.au</a></li>
+	<li><i class="fa fa-envelope" aria-hidden="true"></i> Projects: <a href="mailto:projects@createunsw.com.au" target="_top">projects@createunsw.com.au</a> <a href="/starters/">(CREATE Starters)</a></li>
       </div>
     </div>
   </div>
