@@ -137,7 +137,7 @@ type: section
     </div>
 
     <div class="portfolio-content">
-  <table ><tr ><th  align='left'>Name</th><th  align='left'>Role</th></tr>
+  <table cellpadding="4"><tr ><th  align='left'>Name</th><th  align='left'>Role</th></tr>
   <tr ><td  align='left'>Sarah Nguyen</td><td >2016 Digital Artist</td></tr>
   <tr ><td  align='left'>Lachlan Boyle</td><td >2016 Co-Director of Sales</td></tr>
   <tr ><td  align='left'>Sophia Luu</td><td >2015 Head of Media and Marketing</td></tr>
