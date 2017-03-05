@@ -8,7 +8,7 @@ type: section
 
 <style type="text/css">
 .store-cover {
-	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/13124451_582084161967043_2445159486797259678_n.jpg?oh=71315416e45f76921c6cdb378c4c5a78&oe=593EC25C);
+	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(https://scontent.fsyd4-1.fna.fbcdn.net/v/t31.0-8/13329602_590946491080810_7311982646520677562_o.jpg?oh=c083c95064d7472d7778c899f21ae477&oe=5932897F);
 	background-attachment: fixed;
 }
 </style>
@@ -58,7 +58,7 @@ type: section
 				    <h4 class="panel-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
 				  </div>
 				  <div class="panel-body product-subpod">
-				    <img src="{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail"/>
+				    <img src="{{ post.image }}" alt="{{ post.title }}" style="height:auto" />
 				    <br><small>{{ post.category }}</small>
 					{% assign price_split = post.price | round: 2 | split: "." %}
 					{% assign integral = price_split[0] %}
