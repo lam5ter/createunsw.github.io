@@ -187,11 +187,11 @@ type: section
       <div class="manual-post">
         <div class="manual manual-title" id="{{ stat }}">
           <i class="fa fa-user fa-lg" aria-hidden="true"></i>
-          {% if stat == 'current_contributer' %}
-          <strong>Current Contributers / Team Members</strong>
+          {% if stat == 'current_contributor' %}
+          <strong>Current Contributors / Team Members</strong>
           {% endif %}
-          {% if stat == 'past_contributer' %}
-          <strong>Past Contributers / Team Members</strong>
+          {% if stat == 'past_contributor' %}
+          <strong>Past Contributors / Team Members</strong>
           {% endif %}
           {% if stat == 'current_executive' %}
           <strong>Current Executives</strong>
