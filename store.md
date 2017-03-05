@@ -40,7 +40,7 @@ type: section
 	{% endfor %}<hr>
 </div>
 
-<ul class="post-list">
+<div style="margin: 0 auto;">
 	{% assign cats =  site.products | map: 'category' | join: ','  | split: ',' | uniq %}
     {% for cat in cats %}
 	    <div class="postBody">
@@ -53,7 +53,7 @@ type: section
 	    	<div class="product-pod">
 		    {% for post in products%}
 		    	{% if post.category contains cat %}
-				<div class="panel panel-default" style="width:230px;">
+				<div class="panel panel-info" style="width:230px;">
 				  <div class="panel-heading">
 				    <h4 class="panel-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
 				  </div>
@@ -90,6 +90,6 @@ type: section
 			</div>
 		</div>
 	{% endfor %}
-</ul>
+</div>
 
 </div>

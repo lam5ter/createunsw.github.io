@@ -13,7 +13,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 paginate: 5
 permalink: /:categories/:title/
-api_key: OTJiYWVhMmUtZTA3YS00N2Q4LWI4NmEtMTQ3MTkxMWViNDkwNjM2MjM0MzkzODUxMDk4OTQy
 
 future: true
 gems: [jekyll-paginate, kramdown, jekyll-seo-tag, jekyll-sitemap]
@@ -27,3 +26,6 @@ collections:
   media:
     output: true
     permalink: /:categories/:title/
+  people:
+    output: true
+    permalink: /team/:title/

@@ -23,8 +23,10 @@ type: section
   </div>
 </div>
 
-<div class="wrapper">
 
+
+<!--- Delete this block once all contributer files are done ---->
+<div class="wrapper">
   <div class="manual-post" id="current_exec">
     <div class="manual manual-title">
       <i class="fa fa-user fa-lg" aria-hidden="true"></i>
@@ -118,14 +120,6 @@ type: section
         <a class="btn btn-secondary btn-sm "><i class="fa fa-envelope-o"></i></a>
       </div>
     </div>
-    <div class="card">
-      <img src="http://www.reinvestmentpartners.org/wp-content/uploads/2015/12/generic-profile.png" alt="Avatar">
-      <div class="profile-container">
-        <b>You</b>
-        <p>Creator</p>
-        <a class="btn btn-secondary btn-sm "><i class="fa fa-envelope-o"></i></a>
-      </div>
-    </div>
   </div>
 
   <br>
@@ -180,7 +174,64 @@ type: section
   </table>
     </div>
   </div>
+</div>
 
+
+
+
+
+<div class="wrapper">
+  {% assign status =  site.people | map: 'status' | join: ','  | split: ',' | uniq %}
+    {% for stat in status %}
+      <div class="postBody">
+      <div class="manual-post">
+        <div class="manual manual-title" id="{{ stat }}">
+          <i class="fa fa-user fa-lg" aria-hidden="true"></i>
+          {% if stat == 'current_contributer' %}
+          <strong>Current Contributers / Team Members</strong>
+          {% endif %}
+          {% if stat == 'past_contributer' %}
+          <strong>Past Contributers / Team Members</strong>
+          {% endif %}
+          {% if stat == 'current_executive' %}
+          <strong>Current Executives</strong>
+          {% endif %}
+          {% if stat == 'past_executive' %}
+          <strong>Past Executives</strong>
+          {% endif %}
+        </div>
+      </div><br>
+
+      {% assign people = site.people | sort:"title" %}
+        <div class="product-pod">
+        {% for person in people %}
+          {% if person.status contains stat %}
+          <a href="{{ site.baseurl }}{{ person.url }}">
+          <div class="card" >
+            <img src="{{ person.face-url }}" alt="Avatar">
+            <div class="profile-container">
+            <b><a href="{{ site.baseurl }}{{ person.url }}">{{ person.title }}</a></b>
+            <p>{{ person.role }}</p>
+            {% if person.email-url  %}
+              <a href="mailto:{{ person.email-url }}" target="_blank" class="btn btn-secondary"><i class="fa fa-envelope-o"></i></a>
+            {% endif %}
+            {% if person.linkedin-url  %}
+              <a href="{{ person.linkedin-url }}" target="_blank" class="btn btn-secondary"><i class="fa fa-linkedin"></i></a>
+            {% endif %}
+            {% if person.github-url  %}
+              <a href="{{ person.github-url }}" target="_blank" class="btn btn-secondary"><i class="fa fa-github"></i></a>
+            {% endif %}
+            </div>
+          </div>
+          </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="wrapper">
   <div class="manual-post">
     <div class="manual manual-title">
       <i class="fa fa-share-square-o fa-lg" aria-hidden="true"></i>
