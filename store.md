@@ -53,38 +53,41 @@ type: section
 	    	<div class="product-pod">
 		    {% for post in products%}
 		    	{% if post.category contains cat %}
-				<div class="panel panel-info" style="width:230px;">
-				  <div class="panel-heading">
-				    <h4 class="panel-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
-				  </div>
-				  <div class="panel-body product-subpod">
-				    <img src="{{ post.image }}" alt="{{ post.title }}" style="height:auto" />
-				    <br><small>{{ post.category }}</small>
-					{% assign price_split = post.price | round: 2 | split: "." %}
-					{% assign integral = price_split[0] %}
-					{% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
-				    <p>${{ integral }}.{{ fractional }}</p>
-				  </div>
-				  <div class="panel-footer">
-				  	<div style="display: inline">
-						<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'>
-							<input type='hidden' name='add' value='1'>
-							<input type='hidden' name='cmd' value='_cart'>
-							<input type='hidden' name='business' value='sales@createunsw.com.au' />
-							<input type='hidden' name='item_name' value='{{ post.title }}' />
-							<input type='hidden' name='item_number' value='' />
-							<input type='hidden' name='amount' value='{{ post.price }}' />
-							<input type='hidden' name='no_note' value='1' />
-							<input type='hidden' name='currency_code' value='AUD' />
-							<input type='hidden' name='lc' value='AU'><input style="width:40px;" type='number' name='quantity' value='1' min="1">
-							<button class="btn btn-secondary" type='submit' name='submit' alt='Add this item to your paypal cart.' value='Purchase' >
-								<i class="fa fa-shopping-cart" aria-hidden="true"></i>
-							</button>
-						    <a style="float:right" href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">Item Details</a>
-						</form>
-				  	</div>
-				  </div>
+
+		    	<a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
+				<div class="card" style="width: 225px; height: auto;">
+				 	<img class="card-img-top" src="{{ post.image }}" alt="{{ post.title }}">
+			    	<b class="card-title" style="padding: 10px;">{{ post.title }}</b>
+
+				  	<div class="card-block" style="padding: 10px;">
+					    <p class="card-text">{{ post.content | strip_html | truncatewords:10}}</p>
+
+						<div style="display: inline">
+							<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'>
+								<input type='hidden' name='add' value='1'>
+								<input type='hidden' name='cmd' value='_cart'>
+								<input type='hidden' name='business' value='sales@createunsw.com.au' />
+								<input type='hidden' name='item_name' value='{{ post.title }}' />
+								<input type='hidden' name='item_number' value='' />
+								<input type='hidden' name='amount' value='{{ post.price }}' />
+								<input type='hidden' name='no_note' value='1' />
+								<input type='hidden' name='currency_code' value='AUD' />
+								<input type='hidden' name='lc' value='AU'><input style="width:40px;" type='number' name='quantity' value='1' min="1">
+								<button class="btn btn-secondary" type='submit' name='submit' alt='Add this item to your paypal cart.' value='Purchase' >
+									<i class="fa fa-shopping-cart" aria-hidden="true"></i>
+								</button>
+									{% assign price_split = post.price | round: 2 | split: "." %}
+									{% assign integral = price_split[0] %}
+									{% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+								    <div style="float:right">${{ integral }}.{{ fractional }}</div>
+								</form>
+							</div>
+					  </div>
 				</div>
+				</a>
+
+
+
 	    		{% endif %}
    			 {% endfor %}
 			</div>
