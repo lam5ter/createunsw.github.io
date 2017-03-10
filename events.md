@@ -45,7 +45,7 @@ type: section
     </div>
   </div>
 
-  <div class="manual manual-title" >
+  <div class="manual manual-title" id="upcoming-events">
     <i class="fa fa-calendar fa-lg" aria-hidden="true"></i>
     <strong>Upcoming CREATE Workshops & Events</strong>
     <br><br>
