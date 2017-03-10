@@ -525,7 +525,7 @@ pre {
   letter-spacing: 2px;
   text-indent: 6px;
   font-weight: 300;
-  padding-top: 3em;
+  padding-top: 1.5em;
 }
 .page-title {
   text-transform: uppercase;
@@ -968,6 +968,7 @@ pre {
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
+  background-position: 50% 50%;
 }
 .general-cover h1 b{
   z-index: 1;
