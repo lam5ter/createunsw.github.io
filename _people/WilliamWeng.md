@@ -11,4 +11,3 @@ year: 2017
 layout: people
 ---
 - I do all sorts of things.
-- Vivid Light Show
