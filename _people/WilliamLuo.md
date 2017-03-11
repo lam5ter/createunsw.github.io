@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "William Luo"
 face-url: "/images/Main/default-avatar.png"
 cover-url: ""
 role: "Head of Media and Marketing"
