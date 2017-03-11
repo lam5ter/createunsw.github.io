@@ -1,0 +1,13 @@
+---
+title: ""
+face-url: "/images/Main/default-avatar.png"
+cover-url: ""
+role: "Head of Media and Marketing"
+email-url:
+linkedin-url:
+github-url:
+status: past_executive
+year: 2014
+layout: people
+---
+2014 Head of Media and Marketing

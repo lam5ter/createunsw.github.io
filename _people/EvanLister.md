@@ -1,0 +1,14 @@
+---
+title: "Evan Lister"
+face-url: "/images/Main/exec_evan_lister.jpg"
+cover-url: ""
+role: "VP of Sponsorship"
+email-url:
+linkedin-url:
+github-url:
+status: past_executive
+year: 2016
+layout: people
+---
+- 2016 Vice President of Sponsorship
+- 2014 Head of UAV Team
