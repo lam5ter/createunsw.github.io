@@ -93,9 +93,9 @@ type: section
 		</li></ul>
 
 		  <h4><i class="fa fa-slideshare fa-lg" aria-hidden="true"></i>Workshop Slides</h4>
-		  - <a class='urllink' href='https://drive.google.com/drive/folders/0B-zkVAsq25GnbFhDSlRVY1RNd0k?usp=sharing' rel='nofollow'>2017 Semester 1 slides</a> (latest)
-		  - <a class='urllink' href='https://drive.google.com/folderview?id=0BzPz9Imh10VIaUZ5a0c3OTg5OVk&amp;usp=sharing' rel='nofollow'>2016 Semester 1 slides</a>
-		  <li>- <a class='urllink' href='https://drive.google.com/folderview?id=0B0HdUaejAPMDMm9raTNYVVpnTmc&amp;usp=sharing' rel='nofollow'>2016 O-week slides</a>
+		  <li>- <a class='urllink' href='https://drive.google.com/drive/folders/0B-zkVAsq25GnbFhDSlRVY1RNd0k?usp=sharing' rel='nofollow'>2017 Semester 1 slides</a> (latest)
+		  </li><li>- <a class='urllink' href='https://drive.google.com/folderview?id=0BzPz9Imh10VIaUZ5a0c3OTg5OVk&amp;usp=sharing' rel='nofollow'>2016 Semester 1 slides</a>
+		  </li><li>- <a class='urllink' href='https://drive.google.com/folderview?id=0B0HdUaejAPMDMm9raTNYVVpnTmc&amp;usp=sharing' rel='nofollow'>2016 O-week slides</a>
 		  </li><li>- <a class='urllink' href='https://drive.google.com/folderview?id=0B6zQ4Z8iyU5dfnlRNHZnVVJfTDFmbUVfQ053UVdtdk9ZYXZBYmdKTnZSQVJ3NFRHOXd6ZUE&amp;usp=sharing' rel='nofollow'>2015 Semester 2 slides</a>
 		  </li><li>- <a class='urllink' href='https://drive.google.com/folderview?id=0B0HdUaejAPMDfm1BRFphTklnTGRhajVUVnU2Qno3akZ4TF9kMHVjNUV4UFhtUFdReGJheGc&amp;usp=sharing' rel='nofollow'>2015 Semester 1 slides</a>
 		  </li><li>- <a class='urllink' href='https://drive.google.com/folderview?id=0B48dCwPBD8i0fm02U2FNSGJleWoyZVB4VThaU2RleDlMWlhRdGVuaS1lN1F5MXdqa3hsN3c&amp;usp=sharing' rel='nofollow'>2015 O-week slides</a>
