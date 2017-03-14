@@ -1,6 +1,6 @@
 ---
-title: "Sami Cassisi"
-face-url: "/images/Main/default-avatar.png"
+title: "Sam Cassisi"
+face-url: "/images/Main/old_exec/sam_cassisi.jpg"
 cover-url: ""
 role: "Founder / President"
 email-url:
@@ -10,4 +10,3 @@ status: past_executive
 year: 2013
 layout: people
 ---
-

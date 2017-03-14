@@ -1,6 +1,6 @@
 ---
 title: "Roshen Mathew"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/roshen_mathew.jpg"
 cover-url: ""
 role: "Vice President of Events"
 email-url:

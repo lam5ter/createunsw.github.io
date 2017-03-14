@@ -1,6 +1,6 @@
 ---
 title: "William Archinal"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/william_archinal.jpg"
 cover-url: ""
 role: "Secretary/Treasurer"
 email-url:

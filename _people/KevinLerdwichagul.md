@@ -1,6 +1,6 @@
 ---
 title: "Kevin Lerdwichagul"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/kevin_lerdwichagul.jpg"
 cover-url: ""
 role: "Co-Head of UGV Team"
 email-url:

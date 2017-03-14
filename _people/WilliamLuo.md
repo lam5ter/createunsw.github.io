@@ -1,6 +1,6 @@
 ---
 title: "William Luo"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/william_luo.jpg"
 cover-url: ""
 role: "Head of Media and Marketing"
 email-url:

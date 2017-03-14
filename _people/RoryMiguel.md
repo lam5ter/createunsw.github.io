@@ -1,6 +1,6 @@
 ---
 title: "Rory San Miguel"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/rory_san_miguel.jpg"
 cover-url: ""
 role: "VP of Sponsorship"
 email-url:

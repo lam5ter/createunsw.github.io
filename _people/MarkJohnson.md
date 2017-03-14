@@ -1,6 +1,6 @@
 ---
 title: "Mark Johnson"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/mark_johnson.jpg"
 cover-url: ""
 role: "Co-Director of Sales"
 email-url:

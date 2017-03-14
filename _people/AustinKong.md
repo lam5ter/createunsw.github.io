@@ -1,6 +1,6 @@
 ---
 title: "Austin Kong"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/austin_kong.jpg"
 cover-url: ""
 role: "Chief Technical Officer"
 email-url:

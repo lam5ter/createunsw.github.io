@@ -1,6 +1,6 @@
 ---
 title: "Emmanuel Fazio"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/emmanuel_fazio.jpg"
 cover-url: ""
 role: "Co-Director of Sales"
 email-url:

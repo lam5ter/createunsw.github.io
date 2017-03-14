@@ -1,6 +1,6 @@
 ---
 title: "Nathan Adler"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/nathan_adler.jpg"
 cover-url: ""
 role: "President"
 email-url:

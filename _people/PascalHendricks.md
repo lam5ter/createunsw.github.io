@@ -1,6 +1,6 @@
 ---
 title: "Pascal Hendricks"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/pascal_hendricks.jpg"
 cover-url: ""
 role: "Events Co-ordinator"
 email-url:

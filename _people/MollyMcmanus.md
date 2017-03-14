@@ -1,6 +1,6 @@
 ---
 title: "Molly Mcmanus"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/molly_mcmanus.jpg"
 cover-url: ""
 role: "Treasurer"
 email-url:

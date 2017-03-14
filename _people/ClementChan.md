@@ -1,6 +1,6 @@
 ---
 title: "Clement Chan"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/clement_chan.jpg"
 cover-url: ""
 role: "Socials Co-ordinator"
 email-url:

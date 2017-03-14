@@ -1,6 +1,6 @@
 ---
 title: "Nick Tucker"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/nick_tucker.jpg"
 cover-url: ""
 role: "Co-Director of Sales"
 email-url:

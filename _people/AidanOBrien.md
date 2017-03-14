@@ -1,6 +1,6 @@
 ---
 title: "Aidan O’Brien"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/aidan_obrien.jpg"
 cover-url: ""
 role: "Vice President"
 email-url:

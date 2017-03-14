@@ -1,6 +1,6 @@
 ---
 title: "Callum Howard"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/callum_howard.jpg"
 cover-url: ""
 role: "VP of Events"
 email-url:

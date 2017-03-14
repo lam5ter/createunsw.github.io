@@ -1,6 +1,6 @@
 ---
 title: "Raymond Zeng"
-face-url: "/images/Main/default-avatar.png"
+face-url: "/images/Main/old_exec/ray_zeng.jpg"
 cover-url: ""
 role: "Co-Head of Media and Marketing"
 email-url:
