@@ -1,5 +1,5 @@
 ---
-title: "Molly Mcmanus"
+title: "Molly McManus"
 face-url: "/images/Main/old_exec/molly_mcmanus.jpg"
 cover-url: ""
 role: "Treasurer"
