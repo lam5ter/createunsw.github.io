@@ -2,7 +2,7 @@
 title: "Anthony Sobbi"
 face-url: "/images/Main/exec_anthony_fezi-sobbi.jpeg"
 cover-url: ""
-role: "President"
+role: "1.President"
 email-url: a.feizi-sobbi@createunsw.com.au
 linkedin-url:
 github-url:
