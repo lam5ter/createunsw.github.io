@@ -121,7 +121,7 @@ type: section
         <strong>Past Executives</strong>
       </div>
     </div><br>
-    {% assign people = site.people | sort:"year" | reverse %}
+    {% assign people = site.people | sort:"year" %}
     <div class="product-pod">
     {% for person in people %}
       {% if person.status contains stat %}
