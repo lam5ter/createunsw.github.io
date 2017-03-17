@@ -4,7 +4,7 @@ title:  STAR WARS - BCRE8
 slug: starters-bcre8
 image: /images/Projects/bcre8.jpeg
 layout: post
-author: William Hales
+author: Sophia Luu
 date: 2016-02-12 19:45:31 +1000
 ---
 
