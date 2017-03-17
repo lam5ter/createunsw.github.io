@@ -4,7 +4,7 @@ title: Vivid Sydney 2016 - Mondrian Cube
 slug: mondrian-cube
 image: /images/Projects/mondrian1.jpeg
 layout: post
-author: William Hales
+author: Yunzhen Zhang
 date: 2016-06-16 19:45:31 +1000
 ---
 
@@ -12,14 +12,13 @@ The Mondrian Cube was first commissioned for the Vivid Sydney 2016 festival. Tak
 
 The installation was wholly built and designed by undergraduate UNSW students from different faculties and disciplines. Though the Mondrian Cube, CREATE encouraged members to push beyond their boundaries and manage a real-life engineering project, allowing them to develop valuable skills through student collaboration.
 
-The CREATE Vivid team would like to thank the staff of UNSW Art and Design toolroom (Jim Ward, Alex Byrne, Kamilia Sheppard and Francois Breuillaud-Limondin), for their continual mentorship and support thoughout the construction process.
-
 (For Behind the Scenes photos <a href="https://www.facebook.com/CreateUnsw/photos/?tab=album&album_id=590946197747506">click here</a>. To read UNSW Newsroom's article on the installation, <a href="http://newsroom.unsw.edu.au/news/students/student-group-create-lights-vivid-mondrian-cube">click here</a>.)
 
-Artists: Christopher Ho, Yunzhen Zhang, Scott Fraser
+<b>Artists:</b> Christopher Ho, Yunzhen Zhang, Scott Fraser
 
-Collaborators: Jessica Tanzil, Laura González Llamazares, Daniel Castillo
+<b>Collaborators:</b> Jessica Tanzil, Laura González Llamazares, Daniel Castillo
 
+The CREATE Vivid team would like to thank the staff of UNSW Art and Design toolroom (Jim Ward, Alex Byrne, Kamilia Sheppard and Francois Breuillaud-Limondin), for their continual mentorship and support thoughout the construction process.
 
 The CREATE Vivid team would also like to thank the following volunteers who have came onboard to help in the assembly and/or final logistical stages of the project:
 
