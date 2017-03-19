@@ -9,7 +9,6 @@ type: section
 <style type="text/css">
 .team-cover {
   background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url(https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/14568197_657783307730461_165885174753342049_n.jpg?oh=2883a74caaea7d244e993f4e02abea9f&oe=593C5AB3);
-  background-attachment: fixed;
 }
 </style>
 
