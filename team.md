@@ -132,7 +132,7 @@ type: section
         <b><a href="{{ site.baseurl }}{{ person.url }}">{{ person.title }}</a></b>
         {% if person.role|length > 1 %}
           {% for elem in person.role %}
-              <p>{{ elem }} ({{ person.year[{{ loop.index}} ] }})</p>
+              <p>{{ elem }} ({{ person.year[loop.index0] }})</p>
           {% endfor %}
         {% else %}
           <p>{{ person.role }} ({{ person.year }})</p>
