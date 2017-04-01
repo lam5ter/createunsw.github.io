@@ -2,8 +2,8 @@
 title: "Nathan Adler"
 face-url: "/images/Main/old_exec/nathan_adler.jpg"
 cover-url: ""
-role: "President"
-year: "2014-2015"
+role: ["President", "Vice-President of Events"]
+year: ["2014-2015", "2013"]
 index: 5
 email-url:
 linkedin-url:

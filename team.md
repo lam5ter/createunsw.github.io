@@ -130,9 +130,13 @@ type: section
         <img src="{{ person.face-url }}" alt="{{ person.title }}">
         <div class="profile-container">
         <b><a href="{{ site.baseurl }}{{ person.url }}">{{ person.title }}</a></b>
-        <!--{% for elem in person.role %}-->
-            <p>{{ person.role }} ({{ person.year }})</p>
-        <!--{% endfor %}-->
+        {% if person.role|length > 1 %}
+          {% for elem in person.role %}
+              <p>{{ elem }} ({{ person.year[{{ loop.index}} ] }})</p>
+          {% endfor %}
+        {% else %}
+          <p>{{ person.role }} ({{ person.year }})</p>
+        {% endif %}
         {% if person.email-url  %}
           <a href="mailto:{{ person.email-url }}" target="_blank" class="btn btn-secondary"><i class="fa fa-envelope-o"></i></a>
         {% endif %}
