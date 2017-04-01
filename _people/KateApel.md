@@ -11,5 +11,5 @@ status: past_executive
 year: 2016
 layout: people
 ---
-2016 Vice President of Events
-2014 Co-Head of Sales
+- 2016 VP of Events
+- 2014 Co-Head of Sales

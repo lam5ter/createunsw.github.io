@@ -11,5 +11,4 @@ status: past_executive
 year: 2016
 layout: people
 ---
-- 2016 Head of Media and Marketing
-- 2015 Head of Media and Marketing
+- 2015-2016 Head of Media & Marketing

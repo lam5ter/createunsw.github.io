@@ -3,6 +3,7 @@ title: "Daniel Li"
 face-url: "/images/Main/exec_daniel_li_2.jpg"
 cover-url: ""
 role: "Secretary"
+index: 4
 email-url: create@createunsw.com.au
 linkedin-url:
 github-url:

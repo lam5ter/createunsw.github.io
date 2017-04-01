@@ -3,6 +3,7 @@ title: "Simon Taylor"
 face-url: "/images/Main/exec_simon_taylor.jpg"
 cover-url: ""
 role: "Treasurer"
+index: 4
 email-url:
 linkedin-url:
 github-url:

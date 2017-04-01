@@ -11,5 +11,5 @@ status: past_executive
 year: 2016
 layout: people
 ---
-- 2016 Vice President of Sponsorship
+- 2016 VP of Sponsorship
 - 2014 Head of UAV Team

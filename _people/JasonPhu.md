@@ -3,6 +3,7 @@ title: "Jason Phu"
 face-url: "/images/Main/exec_Jason_phu.jpeg"
 cover-url: ""
 role: "Co-Director of Sales"
+index: 4
 email-url: sales@createunsw.com.au
 linkedin-url:
 github-url:

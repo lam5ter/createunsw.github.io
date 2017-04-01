@@ -3,6 +3,7 @@ title: "Abhishek Sharan"
 face-url: "/images/Main/exec_abhishek_sharan.jpg"
 cover-url: ""
 role: "UAS Team Leader"
+index: 4
 email-url:
 linkedin-url:
 github-url:

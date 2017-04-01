@@ -12,4 +12,4 @@ year: 2016
 layout: people
 ---
 - 2016 President
-- 2015 Vice President of Sponsorship
+- 2015 VP of Sponsorship

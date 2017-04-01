@@ -11,5 +11,5 @@ status: past_executive
 year: 2015
 layout: people
 ---
-2015 Vice President of Sponsorship
-2013 Chief Technical Officer
+- 2015 VP of Sponsorship
+- 2013 CTO

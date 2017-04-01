@@ -2,7 +2,8 @@
 title: "Karen Zhong"
 face-url: "/images/Main/exec_karen_zhong.jpg"
 cover-url: ""
-role: "Head of Marketing"
+role: "Head of Media & Marketing"
+index: 4
 email-url: marketing@createunsw.com.au
 linkedin-url:
 github-url:

@@ -3,6 +3,7 @@ title: "Alexander Lam"
 face-url: "/images/Main/exec_alexander_lam.jpg"
 cover-url: ""
 role: "Arc Delegate"
+index: 4
 email-url:
 linkedin-url:
 github-url:

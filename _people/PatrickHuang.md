@@ -3,6 +3,7 @@ title: "Patrick Huang"
 face-url: "/images/Main/exec_patrick_huang.jpg"
 cover-url: ""
 role: "Vice President of Events"
+index: 4
 email-url: events@createunsw.com.au
 linkedin-url:
 github-url:

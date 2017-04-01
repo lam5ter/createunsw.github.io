@@ -3,6 +3,7 @@ title: "Daniel Castillo"
 face-url: "/images/Main/exec_daniel_castillo.jpeg"
 cover-url: ""
 role: "Chief Technical Officer"
+index: 4
 email-url:
 linkedin-url:
 github-url:
