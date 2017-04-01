@@ -85,6 +85,7 @@ type: section
         <img src="{{ person.face-url }}" alt="{{ person.title }}">
         <div class="profile-container">
         <b><a href="{{ site.baseurl }}{{ person.url }}">{{ person.title }}</a></b>
+
         <p>{{ person.role }} ({{ person.year }})</p>
         {% if person.email-url  %}
           <a href="mailto:{{ person.email-url }}" target="_blank" class="btn btn-secondary"><i class="fa fa-envelope-o"></i></a>
@@ -120,7 +121,7 @@ type: section
         <strong>Past Executives</strong>
       </div>
     </div><br>
-    {% assign people = site.people | sort:"index" %}
+    {% assign people = site.people | sort:"index" | reverse %}
     <div class="product-pod">
     {% for person in people %}
       {% if person.status contains stat %}
@@ -129,7 +130,9 @@ type: section
         <img src="{{ person.face-url }}" alt="{{ person.title }}">
         <div class="profile-container">
         <b><a href="{{ site.baseurl }}{{ person.url }}">{{ person.title }}</a></b>
-        <p>{{ person.role }} ({{ person.year }})</p>
+        {% for elem in person.role %}
+            <p>{{ elem }} ({{ person.year[loop.index0] }})</p>
+        {% endfor %}
         {% if person.email-url  %}
           <a href="mailto:{{ person.email-url }}" target="_blank" class="btn btn-secondary"><i class="fa fa-envelope-o"></i></a>
         {% endif %}
