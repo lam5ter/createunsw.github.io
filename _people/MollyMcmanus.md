@@ -3,6 +3,7 @@ title: "Molly McManus"
 face-url: "/images/Main/old_exec/molly_mcmanus.jpg"
 cover-url: ""
 role: "Treasurer"
+index: 20
 email-url:
 linkedin-url:
 github-url:

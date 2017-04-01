@@ -3,6 +3,7 @@ title: "William Archinal"
 face-url: "/images/Main/old_exec/william_archinal.jpg"
 cover-url: ""
 role: "Secretary/Treasurer"
+index: 65
 email-url:
 linkedin-url:
 github-url:

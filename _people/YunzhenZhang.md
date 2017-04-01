@@ -3,6 +3,7 @@ title: "Yunzhen Zhang"
 face-url: "/images/Main/exec_yunzhen_zhang.jpeg"
 cover-url: ""
 role: "Treasurer"
+index: 50
 email-url:
 linkedin-url:
 github-url:

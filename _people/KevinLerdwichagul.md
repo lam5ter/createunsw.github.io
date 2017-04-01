@@ -3,6 +3,7 @@ title: "Kevin Lerdwichagul"
 face-url: "/images/Main/old_exec/kevin_lerdwichagul.jpg"
 cover-url: ""
 role: "Co-Head of UGV Team"
+index: 100
 email-url:
 linkedin-url:
 github-url:

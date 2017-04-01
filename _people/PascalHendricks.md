@@ -3,6 +3,7 @@ title: "Pascal Hendricks"
 face-url: "/images/Main/old_exec/pascal_hendricks.jpg"
 cover-url: ""
 role: "Events Co-ordinator"
+index: 30
 email-url:
 linkedin-url:
 github-url:

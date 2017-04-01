@@ -3,6 +3,7 @@ title: "Emmanuel Fazio"
 face-url: "/images/Main/old_exec/emmanuel_fazio.jpg"
 cover-url: ""
 role: "Co-Director of Sales"
+index: 90
 email-url:
 linkedin-url:
 github-url:

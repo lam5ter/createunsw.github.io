@@ -3,6 +3,7 @@ title: "Callum Howard"
 face-url: "/images/Main/old_exec/callum_howard.jpg"
 cover-url: ""
 role: "VP of Events"
+index: 45
 email-url:
 linkedin-url:
 github-url:

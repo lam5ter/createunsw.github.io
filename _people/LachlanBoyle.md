@@ -3,6 +3,7 @@ title: "Lachlan Boyle"
 face-url: "/images/Main/exec_lachlan_boyle.jpg"
 cover-url: ""
 role: "Co-Director of Sales"
+index: 120
 email-url:
 linkedin-url:
 github-url:

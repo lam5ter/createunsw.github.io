@@ -3,6 +3,7 @@ title: "Rory San Miguel"
 face-url: "/images/Main/old_exec/rory_san_miguel.jpg"
 cover-url: ""
 role: "VP of Sponsorship"
+index: 35
 email-url:
 linkedin-url:
 github-url:

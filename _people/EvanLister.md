@@ -3,6 +3,7 @@ title: "Evan Lister"
 face-url: "/images/Main/exec_evan_lister.jpg"
 cover-url: ""
 role: "VP of Sponsorship"
+index: 75
 email-url:
 linkedin-url:
 github-url:

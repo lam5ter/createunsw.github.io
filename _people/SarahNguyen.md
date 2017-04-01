@@ -3,6 +3,7 @@ title: "Sarah Nguyen"
 face-url: "/images/Main/default-avatar.png"
 cover-url: ""
 role: "Digital Artist"
+index: 125
 email-url:
 linkedin-url:
 github-url:

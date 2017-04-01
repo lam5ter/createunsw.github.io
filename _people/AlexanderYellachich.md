@@ -3,6 +3,7 @@ title: "Alexander Yellachich"
 face-url: "/images/Main/exec_alex_yellachich.jpeg"
 cover-url: ""
 role: "President"
+index: 110
 email-url:
 linkedin-url:
 github-url:
