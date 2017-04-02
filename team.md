@@ -43,7 +43,7 @@ type: section
         <img src="{{ person.face-url }}" alt="{{ person.title }}">
         <div class="profile-container">
         <b><a href="{{ site.baseurl }}{{ person.url }}">{{ person.title }}</a></b>
-        <p>{{ person.role }} ({{ person.year }})</p>
+        <p>{{ person.role }}</p>
         {% if person.email-url  %}
           <a href="mailto:{{ person.email-url }}" target="_blank" class="btn btn-secondary"><i class="fa fa-envelope-o"></i></a>
         {% endif %}
@@ -86,7 +86,7 @@ type: section
         <div class="profile-container">
         <b><a href="{{ site.baseurl }}{{ person.url }}">{{ person.title }}</a></b>
 
-        <p>{{ person.role }} ({{ person.year }})</p>
+        <p>{{ person.role }}</p>
         {% if person.email-url  %}
           <a href="mailto:{{ person.email-url }}" target="_blank" class="btn btn-secondary"><i class="fa fa-envelope-o"></i></a>
         {% endif %}
