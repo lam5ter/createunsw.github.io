@@ -11,5 +11,6 @@ status: past_executive
 year: 2016
 layout: people
 ---
-- 2016 President
-- 2015 VP of Sponsorship
+2016 President
+<br>2015 VP of Sponsorship
+

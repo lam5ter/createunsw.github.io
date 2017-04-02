@@ -11,6 +11,7 @@ status: current_executive
 year: 2017
 layout: people
 ---
-- President - 2014
+President - 2014
 
 Joining CREATE in the latter part of 2015, Anthony started off as co-director of sales and joined CREATE UAS project team as lead Electrical Engineer. In the past year, Anthony has brought some fresh ideas to CREATE to aid with sales, reaching out to new students and workshops. Through his previous leadership roles as well as his visions for the club in the coming year, Anthony was selected as president for 2017.
+

@@ -11,5 +11,6 @@ status: past_executive
 year: 2014
 layout: people
 ---
-- 2014 VP of Sponsorship
-- 2013 Arc Delegate
+2014 VP of Sponsorship
+<br>2013 Arc Delegate
+

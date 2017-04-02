@@ -11,5 +11,6 @@ status: past_executive
 year: 2015
 layout: people
 ---
-- 2015 Vice President of Events
-- 2014 Co-Head of UGV Team
+2015 Vice President of Events
+<br>2014 Co-Head of UGV Team
+

@@ -11,5 +11,6 @@ status: past_executive
 year: 2015
 layout: people
 ---
-- 2015 VP of Sponsorship
-- 2013 CTO
+2015 VP of Sponsorship
+<br>2013 CTO
+

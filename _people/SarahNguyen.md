@@ -12,3 +12,4 @@ year: 2016
 layout: people
 ---
 2016 Digital Artist
+

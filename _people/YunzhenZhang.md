@@ -11,6 +11,8 @@ status: past_executive
 year: 2016
 layout: people
 ---
-- 2016 Treasurer
-- 2015 Secretary/Treasurer
-- 2014 Arc Delegate
+2016 Treasurer
+<br>2015 Secretary/Treasurer
+<br>2014 Arc Delegate
+
+

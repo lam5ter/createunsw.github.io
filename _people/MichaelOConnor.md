@@ -11,5 +11,6 @@ status: past_executive
 year: 2014
 layout: people
 ---
-- 2014 Co-Head of Sales
-- 2014 Head of 3D Printing
+2014 Co-Head of Sales
+<br>2014 Head of 3D Printing
+
