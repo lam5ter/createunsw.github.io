@@ -24,8 +24,9 @@ type: section
 
 <div class="wrapper">
 
-
 <ul class="post-list">
+
+
 
 	{% assign cats =  site.media | map: 'categories' | join: ','  | split: ',' | uniq %}
     {% for cat in cats %}
