@@ -53,10 +53,11 @@ type: section
 		    {% for post in products%}
 		    	{% if post.category contains cat %}
 
-		    	<a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
 				<div class="card" style="width: 225px; height: auto;">
-				 	<img class="card-img-top" src="{{ post.image }}" alt="{{ post.title }}">
+			    	<a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
+					 	<img class="card-img-top" src="{{ post.image }}" alt="{{ post.title }}">
 			    	<b class="card-title" style="padding: 10px;">{{ post.title }}</b>
+					</a>
 
 				  	<div class="card-block" style="padding: 10px;">
 					    <p class="card-text">{{ post.content | strip_html | truncatewords:10}}</p>
@@ -83,7 +84,6 @@ type: section
 							</div>
 					  </div>
 				</div>
-				</a>
 
 
 
