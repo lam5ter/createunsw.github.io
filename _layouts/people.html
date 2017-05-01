@@ -7,7 +7,7 @@ layout: default
   background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ),
   url(
     {% if page.cover-url == "" %}
-      {{ "/images/Cover/minimal-cover.png" }}
+      {{ page.face-url }}
     {% else %}
       {{ page.cover-url }}
     {% endif %}
@@ -64,14 +64,17 @@ layout: default
 </div>
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
   <div class="wrapper">
+
     <div class="post-content" itemprop="articleBody">
       <h2> <img src="{{ page.face-url }}" class="img-thumbnail profile-pic" alt="{{ page.title }}"></img> <small>({{ page.role }} - {{ page.year }})</small> </h2>
       {{ content }}
     </div>
     <br>
-    <hr>
-    <footer class="postNavigation">
+
+
+    <hr><footer class="postNavigation">
     {% if page.previous.url %}
       <div>
         <a href="{{page.previous.url}}"><img src="{{ page.previous.face-url }}" class="img-thumbnail profile-pic text-img" alt="{{page.previous.title}}"></img></a>
@@ -85,6 +88,22 @@ layout: default
       </div>
     {% endif %}
     </footer>
+
+    <div class="manual-post">
+      <div class="manual manual-title">
+        <i class="fa fa-user fa-lg" aria-hidden="true"></i>
+        <strong>All Executives</strong>
+      </div>
+
+      <div class="portfolio-content">
+      <div style="display: inline">
+        {% assign exec =  site.people %}
+        {% for cat in exec %}
+        <button class="btn btn-standard store-btn" onclick="location.href='{{ cat.url }}'"><a>{{ cat.title }}</a></button>
+        {% endfor %}
+      </div>
+    </div>
+
   </div>
 
 </article>

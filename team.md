@@ -22,6 +22,7 @@ type: section
 </div>
 
 
+
 <!---- CURRENT EXECUTIVES ---->
 <div class="wrapper">
 {% assign status =  site.people | map: 'status' | join: ','  | split: ',' | uniq %}
@@ -195,6 +196,24 @@ type: section
   {% endif %}
 {% endfor %}
 </div>
+
+<div class="wrapper">
+  <div class="manual-post">
+    <div class="manual manual-title">
+      <hr><i class="fa fa-user fa-lg" aria-hidden="true"></i>
+      <strong>All Executives</strong>
+    </div>
+
+    <div class="portfolio-content">
+    <div style="display: inline">
+      {% assign exec =  site.people %}
+      {% for cat in exec %}
+      <button class="btn btn-standard store-btn" onclick="location.href='{{ cat.url }}'"><a>{{ cat.title }}</a></button>
+      {% endfor %}<hr>
+    </div>
+  </div>
+</div>
+
 
 
 <div class="wrapper">
