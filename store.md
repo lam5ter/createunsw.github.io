@@ -55,7 +55,7 @@ type: section
 
 				<div class="card" style="width: 225px; height: auto;">
 			    	<a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
-					 	<img class="card-img-top" src="{{ post.image }}" alt="{{ post.title }}">
+					 	<img class="card-img-top" src="{% if post.image %} {{ post.image }} {% else %} {{ '/images/Sales/no-photo.jpg' }} {% endif %}" alt="{{ post.title }}">
 			    	<b class="card-title" style="padding: 10px;">{{ post.title }}</b>
 					</a>
 
@@ -79,7 +79,7 @@ type: section
 									{% assign price_split = post.price | round: 2 | split: "." %}
 									{% assign integral = price_split[0] %}
 									{% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
-								    <div style="float:right">${{ integral }}.{{ fractional }}</div>
+								    <div style="float:right">${{ integral }}.{{ fractional }} AUD</div>
 								</form>
 							</div>
 					  </div>

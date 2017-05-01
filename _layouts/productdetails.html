@@ -26,14 +26,14 @@ head:
   <div>
     <center><br><br>
       <h1>{{ page.title }}</h1><br>
-      <img src="{{ page.image }}" alt="{{ page.title }}" class="thumbnail"/>
+      <img src="{% if page.image %} {{ page.image }} {% else %} {{ '/images/Sales/no-photo.jpg' }} {% endif %}" alt="{{ page.title }}" class="thumbnail"/>
     </center>
     <div class="profile-container">
       <p>{{ page.content }}
       {% assign price_split = page.price | round: 2 | split: "." %}
       {% assign integral = price_split[0] %}
       {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
-      <br><br><b>Price</b>: ${{ integral }}.{{ fractional }} (for each {{ page.title }})
+      <br><br><b>Price</b>: ${{ integral }}.{{ fractional }} AUD (for each {{ page.title }})
       </p>
       <form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'>
         <input type='hidden' name='add' value='1'>
