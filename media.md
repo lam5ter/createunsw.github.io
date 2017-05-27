@@ -9,7 +9,7 @@ type: section
 
 <style type="text/css">
 .team-cover {
-	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/13335928_596344263874366_3205140705215519136_n.jpg?oh=e073251708a0435903f16be04a6d8b9c&oe=593C86C3);
+	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(https://scontent.fsyd4-1.fna.fbcdn.net/v/t31.0-8/18738625_1246911155419358_8943848135753128386_o.jpg?oh=d57f9a4dae5da8006088c3558be4dede&oe=599EE247);
 }
 </style>
 
