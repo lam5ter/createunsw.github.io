@@ -108,8 +108,8 @@ h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:
 <span class="c0">
 </span>
 </p>
-<p class="c0">
-<span>Projects run by our club include UAV development, machine vision workshops for autonomous cars and various personal &ldquo;gadgets&rdquo;. CREATE was involved in the Outback UAV Challenge and QUT Droid Racing Competition (
+<p class="c3">
+<span  class="c0">Projects run by our club include UAV development, machine vision workshops for autonomous cars and various personal &ldquo;gadgets&rdquo;. CREATE was involved in the Outback UAV Challenge and QUT Droid Racing Competition (
 </span>
 <span class="c4">
 <a class="c10" href="https://www.google.com/url?q=https://www.engineering.unsw.edu.au/news/create-dominates-droid-racing-competition&amp;sa=D&amp;ust=1496324944568000&amp;usg=AFQjCNESfVJFtwUajSi198_2mfla745Zkg">we came first place in DRC 2016
@@ -136,14 +136,14 @@ h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:
 </span>
 </li>
 </ol>
-<p class="c0">
-<span>CREATE as a student group were involved in various Vivid programs in the past &ndash; in 2014 and 2015 we presented at Vivid Ideas functions, from talking about the 
+<p class="c3">
+<span class="c0">CREATE as a student group were involved in various Vivid programs in the past &ndash; in 2014 and 2015 we presented at Vivid Ideas functions, from talking about the 
 </span>
 <span class="c4">
 <a class="c10" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJPdm0diOfyA&amp;sa=D&amp;ust=1496324944571000&amp;usg=AFQjCNHJxfR3Vvqn78_0UQPO9kXbheMGnw">use of drones
 </a>
-</span class="c0">
-<span>&nbsp;to presenting an
+</span >
+<span class="c0">&nbsp;to presenting an
 </span>
 <span class="c4">
 <a class="c10" href="https://www.google.com/url?q=http://newsroom.unsw.edu.au/unswtv-giant-robotic-pac-man-game-light-vivid-sydney&amp;sa=D&amp;ust=1496324944572000&amp;usg=AFQjCNHAwxjW06bwMIEBzqfodIsqiIur1g">&nbsp;interactive Pacman installation
@@ -156,8 +156,8 @@ h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:
 <span class="c0">
 </span>
 </p>
-<p class="c0">
-<span>Our first official appearance in the Vivid Light Walk program was in 2016, when we presented the
+<p class="c3">
+<span class="c0">Our first official appearance in the Vivid Light Walk program was in 2016, when we presented the
 </span>
 <span class="c4">
 <a class="c10" href="https://www.google.com/url?q=http://newsroom.unsw.edu.au/news/students/student-group-create-lights-vivid-mondrian-cube&amp;sa=D&amp;ust=1496324944574000&amp;usg=AFQjCNFIUVxtmnt1Ca51V5qftN_R4fiTQg">&nbsp;Mondrian Cube
@@ -200,12 +200,10 @@ h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:
 <span class="c0">
 </span>
 </p>
-<
-h3 class="c6" id="h.fya7jqci2lcg">
+<h3 class="c6" id="h.fya7jqci2lcg">
 <span class="c5">The construction process
 </span>
-</
-h3>
+</h3>
 <ol class="c2 lst-kix_llrhn3t0kfk5-0" start="7">
 <li class="c3 c7">
 <span class="c0">Describe how your team works. How many people are involved, and who is in charge?
@@ -284,12 +282,10 @@ h3>
 <span class="c0">
 </span>
 </p>
-<
-h3 class="c6" id="h.7t37krnhsnhq">
+<h3 class="c6" id="h.7t37krnhsnhq">
 <span class="c5">Facilitation and sponsorship
 </span>
-</
-h3>
+</h3>
 <ol class="c2 lst-kix_llrhn3t0kfk5-0" start="12">
 <li class="c3 c7">
 <span class="c0">How is your project facilitated?
