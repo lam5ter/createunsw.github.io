@@ -107,12 +107,8 @@ h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:
 </span>
 </p>
 <p class="c3">
-<span  class="c0">Projects run by our club include UAV development, machine vision workshops for autonomous cars and various personal &ldquo;gadgets&rdquo;. CREATE was involved in the Outback UAV Challenge and QUT Droid Racing Competition (
-</span>
-<span class="c4">
-<a class="c10" href="https://www.google.com/url?q=https://www.engineering.unsw.edu.au/news/create-dominates-droid-racing-competition&amp;sa=D&amp;ust=1496324944568000&amp;usg=AFQjCNESfVJFtwUajSi198_2mfla745Zkg">we came first place in DRC 2016</a>
-</span>
-<span class="c0">!).
+<span  class="c0">Projects run by our club include UAV development, machine vision workshops for autonomous cars and various personal &ldquo;gadgets&rdquo;. CREATE was involved in the Outback UAV Challenge and QUT Droid Racing Competition
+(</span><span class="c4"><a class="c10" href="https://www.engineering.unsw.edu.au/news/create-dominates-droid-racing-competition">we came first place in DRC 2016</a></span><span class="c0">!).
 </span>
 </p>
 <p class="c1">
@@ -136,10 +132,7 @@ h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:
 <p class="c3">
 <span class="c0">CREATE as a student group were involved in various Vivid programs in the past &ndash; in 2014 and 2015 we presented at Vivid Ideas functions, from talking about the
 </span>
-<span class="c4">
-<a class="c10" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJPdm0diOfyA&amp;sa=D&amp;ust=1496324944571000&amp;usg=AFQjCNHJxfR3Vvqn78_0UQPO9kXbheMGnw">use of drones</a>
-</span>
-<span class="c0">&nbsp;to presenting an</span><span class="c4"><a class="c10" href="https://www.google.com/url?q=http://newsroom.unsw.edu.au/unswtv-giant-robotic-pac-man-game-light-vivid-sydney&amp;sa=D&amp;ust=1496324944572000&amp;usg=AFQjCNHAwxjW06bwMIEBzqfodIsqiIur1g">&nbsp;interactive Pacman installation</a></span><span class="c0">.
+<span class="c4"><a class="c10" href="https://www.youtube.com/watch?v=JPdm0diOfyA">use of drones</a></span><span class="c0">&nbsp;to presenting an</span><span class="c4"> <a class="c10" href="http://newsroom.unsw.edu.au/unswtv-giant-robotic-pac-man-game-light-vivid-sydney">interactive Pacman installation</a></span><span class="c0">.
 </span>
 </p>
 <p class="c1">
@@ -147,13 +140,7 @@ h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:
 </span>
 </p>
 <p class="c3">
-<span class="c0">Our first official appearance in the Vivid Light Walk program was in 2016, when we presented the
-</span>
-<span class="c4">
-<a class="c10" href="https://www.google.com/url?q=http://newsroom.unsw.edu.au/news/students/student-group-create-lights-vivid-mondrian-cube&amp;sa=D&amp;ust=1496324944574000&amp;usg=AFQjCNFIUVxtmnt1Ca51V5qftN_R4fiTQg">&nbsp;Mondrian Cube</a></span><span class="c0">&nbsp;at Circular Quay. Mondrian Cube was inspired by the works of the 20
-</span>
-<span class="c8">th
-</span>
+<span class="c0">Our first official appearance in the Vivid Light Walk program was in 2016, when we presented the </span><span class="c4"><a class="c10" href="http://newsroom.unsw.edu.au/news/students/student-group-create-lights-vivid-mondrian-cube">Mondrian Cube</a></span><span class="c0"> at Circular Quay. Mondrian Cube was inspired by the works of the 20th
 <span class="c0">&nbsp;century Dutch artist, Piet Mondrian.
 </span>
 </p>
