@@ -28,22 +28,18 @@ h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:
 <span>Frequently Asked Questions - &ldquo;Crystallise&rdquo;
 </span>
 </p>
-<
-h3 class="c11" id="h.dmkfv2wn8lp4-1">
+<h3 class="c11" id="h.dmkfv2wn8lp4-1">
 <span class="c5">
 </span>
-</
-h3>
+</h3>
 <p class="c14">
 <span class="c0">
 </span>
 </p>
-<
-h3 class="c6" id="h.hq93w4zuk58">
+<h3 class="c6" id="h.hq93w4zuk58">
 <span class="c5">The artwork, its function and meaning
 </span>
-</
-h3>
+</h3>
 <ol class="c2 lst-kix_llrhn3t0kfk5-0 start" start="1">
 <li class="c3 c7">
 <span class="c0">Briefly describe your artwork. 
@@ -94,12 +90,10 @@ h3>
 <span class="c0">
 </span>
 </p>
-<
-h3 class="c6" id="h.an3u6qknwd9n">
+<h3 class="c6" id="h.an3u6qknwd9n">
 <span class="c5">History of the club and our involvement
 </span>
-</
-h3>
+</h3>
 <ol class="c2 lst-kix_llrhn3t0kfk5-0" start="4">
 <li class="c3 c7">
 <span class="c0">Who are you? What is CREATE? 
@@ -318,12 +312,10 @@ h3>
 <span class="c0">
 </span>
 </p>
-<
-h3 class="c6" id="h.3qny14rkokbv">
+<h3 class="c6" id="h.3qny14rkokbv">
 <span class="c5">Reflection and future plans
 </span>
-</
-h3>
+</h3>
 <ol class="c2 lst-kix_llrhn3t0kfk5-0" start="13">
 <li class="c3 c7">
 <span class="c0">What element of your work do you think attracts people the most? 
