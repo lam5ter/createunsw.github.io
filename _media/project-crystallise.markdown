@@ -75,7 +75,9 @@ date: 2017-05-28 19:45:31 +1000
 
 10.  **What is the general process involved in creating the piece?**
 
-    We initially spent the first three months from August to October 2016 selecting a main idea and drafting a submission to Destination NSW, while designing the basic structure, additional features and electronics. Our submission occurred in September and October and required us to submit an initial concept, then attend an interview with curators. Following our acceptance, we developed a prototype during the summer break (December 2016 – February 2017) to gain experience on how to best build the main artwork later. Throughout the first three weeks of March, we began using CAD and parametric design to generate models and designs of the final construction and organisation of required materials to construct the project before spending the remaining time constructing the design and solving any problems missed in the design stage.
+        We initially spent the first three months from August to October 2016 selecting a main idea and drafting a submission to Destination NSW, while designing the basic structure, additional features and electronics. Our submission occurred in September and October and required us to submit an initial concept, then attend an interview with curators. Following our acceptance, we developed a prototype during the summer break (December 2016 – February 2017) to gain experience on how to best build the main artwork later.
+
+        Throughout the first three weeks of March, we began using CAD and parametric design to generate models and designs of the final construction and organisation of required materials to construct the project before spending the remaining time constructing the design and solving any problems missed in the design stage.
 
 
 11. **What types of technology have you harnessed to create the piece?**     
