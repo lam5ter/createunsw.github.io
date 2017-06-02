@@ -140,9 +140,7 @@ h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:
 </span>
 </p>
 <p class="c3">
-<span class="c0">Our first official appearance in the Vivid Light Walk program was in 2016, when we presented the </span><span class="c4"><a class="c10" href="http://newsroom.unsw.edu.au/news/students/student-group-create-lights-vivid-mondrian-cube">Mondrian Cube</a></span><span class="c0"> at Circular Quay. Mondrian Cube was inspired by the works of the 20th
-<span class="c0">&nbsp;century Dutch artist, Piet Mondrian.
-</span>
+<span class="c0">Our first official appearance in the Vivid Light Walk program was in 2016, when we presented the </span><span class="c4"><a class="c10" href="http://newsroom.unsw.edu.au/news/students/student-group-create-lights-vivid-mondrian-cube">Mondrian Cube</a></span><span class="c0"> at Circular Quay. Mondrian Cube was inspired by the works of the 20th<span class="c0">&nbsp;century Dutch artist, Piet Mondrian.</span>
 </p>
 <p class="c1">
 <span class="c0">
