@@ -8,7 +8,7 @@ type: section
 
 <style type="text/css">
 .team-cover {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url(https://scontent.fsyd4-1.fna.fbcdn.net/v/t31.0-8/18671369_1246912712085869_7805464183844896736_o.jpg?oh=c9cd9ec938c738e7a786772e4a711df3&oe=59BB0755);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url(/images/Cover/team-1.jpg);
 }
 </style>
 
