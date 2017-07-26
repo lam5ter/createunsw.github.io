@@ -56,7 +56,7 @@ type: section
   <div class="manual-post">
     <div class="manual manual-title">
       <i class="fa fa-briefcase fa-lg" aria-hidden="true"></i>
-      <strong>2017 Semester 1 Workshops</strong>
+      <strong>2017 Semester 2 Workshops</strong>
     </div>
     <div class="portfolio-content">
 	<br>07/08/2017 - Week 3 - Arduino
