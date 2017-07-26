@@ -59,14 +59,15 @@ type: section
       <strong>2017 Semester 1 Workshops</strong>
     </div>
     <div class="portfolio-content">
-      <br>13/03/2017 - Week 3 - Electronics - Simple circuitry on breadboards
-      <br>20/03/2017 - Week 4 - Electronics - Soldering a lighting display
-      <br>27/03/2017 - Week 5 - Arduino
-      <br>03/04/2017 - Week 6 - Arduino
-      <br>10/04/2017 - Week 7 - Arduino
-      <br>24/04/2017 - Week 8 - CAD - 2D/3D Basics
-      <br>01/05/2017 - Week 9 - CAD - Parametric Modelling
-    </div>
+	<br>07/08/2017 - Week 3 - Arduino
+	<br>14/08/2017 - Week 4 -  Arduino
+	<br>21/08/2017 - Week 5 -  Arduino
+	<br>04/09/2017 - Week 6 -  MiniQuad
+	<br>11/09/2017 - Week 7 -  MiniQuad
+	<br>18/09/2017 - Week 8 -  Raspberry Pi
+	<br>25/09/2017 - Week 9 -  OpenCV+Rpi
+	<br>02/10/2017 - Week 10 -  OpenCV+Rpi
+</div>
   </div>
 </div>
 
